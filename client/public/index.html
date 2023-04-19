@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="stylesheet" href='../src/css/bootstrap.min.css'>
+    <link rel="stylesheet" href='../src/css/vendor/animate.css'>
+    <link rel="stylesheet" href='../src/css/responsive.css'>
+    <link rel="stylesheet" href='../src/css/menu.css'>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<link rel="stylesheet" href='../src/style.css'>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Expanded:600" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>Pbcreations</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    
+    <!-- <script src="https://www.recaptcha.net/recaptcha/api.js" async defer></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <script>
+      $(".sidebar-dropdown > a").click(function() {
+	$(".sidebar-submenu").slideUp(200);
+	if (
+		$(this)
+		.parent()
+		.hasClass("active")
+	) {
+		$(".sidebar-dropdown").removeClass("active");
+		$(this)
+		.parent()
+		.removeClass("active");
+	} else {
+		$(".sidebar-dropdown").removeClass("active");
+		$(this)
+		.next(".sidebar-submenu")
+		.slideDown(200);
+		$(this)
+		.parent()
+		.addClass("active");
+	}
+});
+$(".page-wrapper").removeClass("toggled");
+$("#close-sidebar").click(function() {
+	$(".page-wrapper").removeClass("toggled");
+});
+$("#show-sidebar").click(function() {
+	$(".page-wrapper").addClass("toggled");
+});
+    </script>
+    
+    <script type="text/javascript">
+      $(document).ready(function () {
+          //Disable cut copy paste
+          $('body').bind('cut copy paste', function (e) {
+              e.preventDefault();
+          });
+         
+          //Disable mouse right click
+          $("body").on("contextmenu",function(e){
+              return false;
+          });
+      });
+      </script>
+      <script type="text/javascript">
+        $(window).on('load',function(){
+          $('#myModal').modal('show');
+        });
+      </script>
+      
+  </body>
+</html>

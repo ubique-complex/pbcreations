@@ -1,0 +1,28 @@
+#inner_page_content {
+    margin: 0px 0px 0px 0px;
+    padding: 10px 10px;
+    border: #0000FF solid 0px;
+}
+#inner_page_content h1 {
+    font-family: "Tahoma";
+    font-size: 19px;
+    font-weight: bold;
+    color: #24bca4;
+    margin: 15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+#inner_page_content p {
+    font-family: "Tahoma";
+    font-size: 13px;
+    color: black;
+    line-height: 18px;
+    margin-top: 8px;
+}
+#inner_page_content h2 {
+    font-family: "Tahoma";
+    font-size: 19px;
+    font-weight: bold;
+    color: #24bca4;
+    margin: 15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
