@@ -1,5 +1,4 @@
 package-lock.json
-package.json
 .api/package-lock.json
 .api/node_modules
 .client/node_modules
