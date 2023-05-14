@@ -45,7 +45,7 @@ export const Sem = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Sem-marketing-services</title>
+                <title>Growth Licious | Sem-marketing-services</title>
             </Helmet>
             <div className="development_bg">
                 <div className="container-fluid">
@@ -98,7 +98,7 @@ export const Sem = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Digital Marketing /</Link></li>
                         <li><Link to="#">SEM /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>SEM Services</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>SEM Services</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -109,7 +109,7 @@ export const Sem = () => {
                     <div className="row">
                         <div className="col-sm-12">
                             <h2>We offer quality <span> Search Engine Marketing Services</span></h2>
-                            <p>Pbcreations’s primary objective is to fulfill the client's business requirement and provide them excellent website development services which strengthen the business value.</p><br />
+                            <p>Growth Licious’s primary objective is to fulfill the client's business requirement and provide them excellent website development services which strengthen the business value.</p><br />
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@ export const Sem = () => {
                                 <div className="web_sub_Serv">
                                     <img src={img1} alt="img1" />
                                     <h4>SEO Services</h4>
-                                    <p>Pbcreations provides SEO services in India and across the world. Our objective is to deliver top-className</p>
+                                    <p>Growth Licious provides SEO services in India and across the world. Our objective is to deliver top-className</p>
                                     <Link to="/seo-services">Read More</Link>
                                 </div>
                             </div>
@@ -166,9 +166,9 @@ export const Sem = () => {
                             <p>The above strategies are the backbone of internet marketing. It doesn't matter whether you are a small company or brand, you can choose any of the service or entire SEM services as per your business requirement. It's an easy and affordable way to increase traffic on the website, which helps users generate leads for their business. As we offers best <strong>SEM services in Chandigarh</strong>, support entire digital marketing strategies and recommend our client’s suitable strategy.</p>
                         </div><br />
 
-                        <p>With the help of our marketing experts strategies, you can beat your competitors. Pbcreations provides effective SEM marketing strategies to the business owners, through which they can connect with potential people to get the right benefit. Our <strong>SEM services in Chandigarh</strong>, involves paid marketing services such as PPC to get the maximum number of clicks and traffic on the website. For create successful campaigns, our SEM marketing expert do the complete analysis to match our client's expectations.</p>
+                        <p>With the help of our marketing experts strategies, you can beat your competitors. Growth Licious provides effective SEM marketing strategies to the business owners, through which they can connect with potential people to get the right benefit. Our <strong>SEM services in Chandigarh</strong>, involves paid marketing services such as PPC to get the maximum number of clicks and traffic on the website. For create successful campaigns, our SEM marketing expert do the complete analysis to match our client's expectations.</p>
 
-                        <p>So, Let’s get in touch with us at <Link to="mailto:pbcreationsin@gmail.com">pbcreationsin@gmail.com</Link> or Call on +91 79863 78511.</p>
+                        <p>So, Let’s get in touch with us at <Link to="mailto:Growth Liciousin@gmail.com">Growth Liciousin@gmail.com</Link> or Call on +91 79863 78511.</p>
                     </div>
                     <div className="col-sm-3">
                         <div className="right-web-services">

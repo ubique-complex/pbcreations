@@ -6,7 +6,7 @@ export const WebPortal = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | web-portal-design-services</title>
+                <title>Growth Licious | web-portal-design-services</title>
             </Helmet>
             <div className="head portfolio">
                 <div className="container">
@@ -20,7 +20,7 @@ export const WebPortal = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="/website-design-services">/ Web Solution /</Link></li>
                         <li><Link to="/website-design-services">Design /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Web Portal Design</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Web Portal Design</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -31,12 +31,12 @@ export const WebPortal = () => {
                     <div className="row">
                         <div className="col-sm-9">
                             <h2 className="box-header">Web <span>Portal Design </span></h2>
-                            <p>Pbcreations offers customized <strong>web portal design services in Chandigarh</strong>. Our designed web portals include UX/UI features. We know that an ideal web portal must have advanced and latest features that create a long-lasting customer experience and generate quality traffic for the portal. Our experienced professionals have sufficient knowledge of designing and development to create any kind of web portal such as social media portal, e-commerce web portal, job portal, travel portal, news portal and so on.</p><br />
+                            <p>Growth Licious offers customized <strong>web portal design services in Chandigarh</strong>. Our designed web portals include UX/UI features. We know that an ideal web portal must have advanced and latest features that create a long-lasting customer experience and generate quality traffic for the portal. Our experienced professionals have sufficient knowledge of designing and development to create any kind of web portal such as social media portal, e-commerce web portal, job portal, travel portal, news portal and so on.</p><br />
 
                             <div className="servi/ces_inn_bg">
                                 <h4 className="website-service-head">Web portal development services need proper planning and execution strategy:</h4>
 
-                                <p>As we are into <strong>web portal design services in Chandigarh</strong>, our experts provides you result-oriented services. At Pbcreations, our professionals do proper research and plan their strategy to deliver you error free product. Here are some essential points, which are important to know for any business :</p>
+                                <p>As we are into <strong>web portal design services in Chandigarh</strong>, our experts provides you result-oriented services. At Growth Licious, our professionals do proper research and plan their strategy to deliver you error free product. Here are some essential points, which are important to know for any business :</p>
 
                                 <ul className="mobile_list">
                                     <li><i className="fa fa-hand-o-right"></i> Objective: What do you want to serve through a web portal? The answer must be clear otherwise it create a lot of complications in starting.</li>
@@ -50,7 +50,7 @@ export const WebPortal = () => {
 
                             {/* <!--<br/><div align="center"><img src="img/web-portal-design-services-Chandigarh.png" className="img-responsive" alt="web-portal-design-services-in-Chandigarh"></div>--> */}
 
-                            <p>Our excellent <strong>web portal design services in Chandigarh</strong> provide you an innovative web portal that allows you to manage large databases and sell your products or services globally. Pbcreations’s motive is to design and develop one of the best web portal that fulfill our clients business requirement.</p>
+                            <p>Our excellent <strong>web portal design services in Chandigarh</strong> provide you an innovative web portal that allows you to manage large databases and sell your products or services globally. Growth Licious’s motive is to design and develop one of the best web portal that fulfill our clients business requirement.</p>
                         </div>
                         <div className="col-sm-3">
                             <div className="right-web-services">

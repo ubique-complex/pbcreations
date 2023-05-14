@@ -41,7 +41,7 @@ const Content = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | content-marketing-services</title>
+                <title>Growth Licious | content-marketing-services</title>
             </Helmet>
             <div className="development_bg">
                 <div className="container-fluid">
@@ -95,7 +95,7 @@ const Content = () => {
                         <li><Link to="/"><span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Digital Markeitng /</Link></li>
                         <li><Link to="#">SEO /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Content Marketing</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Content Marketing</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -106,7 +106,7 @@ const Content = () => {
                     <div className="row">
                         <div className="col-sm-12">
                             <h2>Great content build<span> business reputation</span></h2>
-                            <p style={{ fontSize: '14' }}>Pbcreations’s primary objective is to create high-quality content for client's business requirement. Our motive is to attract online users through content <br />marketing and convert them into leads.</p><br />
+                            <p style={{ fontSize: '14' }}>Growth Licious’s primary objective is to create high-quality content for client's business requirement. Our motive is to attract online users through content <br />marketing and convert them into leads.</p><br />
                         </div>
                     </div>
                 </div>
@@ -119,17 +119,17 @@ const Content = () => {
 
                             <p>As we provide <strong>content marketing services in Chandigarh</strong>,  our experts know that your online business depends on high-quality content that showcases your brand’s expertise over search engine. Content Quality has enough power to engage online audiences and convert them into the leads. Our team not only provides blogs and articles content but also provides content of video, advertisements, editorial, etc. to fulfill our client's requirement. Using the right word at the right place at the right time is a process of content planning and implementation.</p>
                             <div className="services_inn_bg">
-                                <h4 className="website-service-head">Pbcreations content marketing services involves strategic approach:</h4>
+                                <h4 className="website-service-head">Growth Licious content marketing services involves strategic approach:</h4>
                                 <p><b>Content Marketing Research Strategy:</b> Before, we start creating content. We find out what type of audiences our client’s want to target and also find out the best possible way to bring potential customers to the website.</p>
                                 <p><b>Content Marketing Plan:</b> Once we know what client’s Online audiences likes to search and what they want to read. Our content team creates exactly the same content that suits their business needs, whether you're product-based or providing some services.</p>
                                 <p><b>Content Creation and Implementation:</b> After proper planning, Our content team thoughtfully & artfully create quality content as per trending practise and implement targeted keywords while writing the blogs or on websites. Our core focus is to create content which is easy to read that increase engagement, entertain online users, and finally convert them into lead.</p>
                                 <p><b>Content Editing and Sharing:</b> In editing phase, our experts remove grammatical errors such as Spelling mistakes, Sentence fragments, Wordiness, Comma splicing etc. After completion editing phase our goal is to share the content on social media channels and promote your content in a effective and efficient way to improve conversion rate.</p>
-                                <p><b>Content Performance Optimization:</b> Content performance optimization is also essential because with the help of performance tracking we can determine how much traffic is coming to websites or blogs. So that we can plan our strategy. Here at Pbcreations, our specialist track down the monthly traffic report and analyze the sales progress before making any new strategy.</p>
+                                <p><b>Content Performance Optimization:</b> Content performance optimization is also essential because with the help of performance tracking we can determine how much traffic is coming to websites or blogs. So that we can plan our strategy. Here at Growth Licious, our specialist track down the monthly traffic report and analyze the sales progress before making any new strategy.</p>
                             </div>
                         </div><br />
                         <h4 className="website-service-head">Content Marketing Role In SEO</h4>
                         <p>Content plays a vital role in search engine optimization(SEO). Without content, you can’t express your business ideology in front of your online users. Creating high-quality content is a requirement of every online business but it's a time taking process. That’s why content marketing is never easy but TrendPuff’s writers are passionate about their work and know the importance of crafting quality content.</p>
-                        <p>So, without worries you can hire Pbcreations for exceptional <strong>content marketing services in Chandigarh</strong>..!!</p>
+                        <p>So, without worries you can hire Growth Licious for exceptional <strong>content marketing services in Chandigarh</strong>..!!</p>
                     </div>
                     <div className="col-sm-3">
                         <div className="right-web-services">

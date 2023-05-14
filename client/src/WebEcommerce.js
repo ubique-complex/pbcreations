@@ -43,7 +43,7 @@ const WebEcommerce = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | ecommerce-website-design-services</title>
+                <title>Growth Licious | ecommerce-website-design-services</title>
             </Helmet>
 
             <div className="development_bg imag">
@@ -97,7 +97,7 @@ const WebEcommerce = () => {
                         <li><Link to="/"><span className="fa fa-home"></span></Link></li>
                         <li><Link to="/web-design-services" style={{ textDecoration: 'none' }}>&nbsp; /Web Solution /</Link></li>
                         <li><Link to="/web-design-services" style={{ textDecoration: 'none' }}>Design /</Link></li>
-                        <li><Link to="/ecommerce-website-design-services" style={{ color: '#59c178' }}><span>Ecommerce Website Design</span></Link></li>
+                        <li><Link to="/ecommerce-website-design-services" style={{ color: '#669940' }}><span>Ecommerce Website Design</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -114,12 +114,12 @@ const WebEcommerce = () => {
                         <div className="services_inn_bg">
                             <h4 className="website-service-head">Benefits of Hiring Ecommerce Website designer Chandigarh, India:</h4>
                             <p><strong>Economically Best:</strong> Cost effective solution to the e-commerce website is what you would be looking for your B2B website.</p>
-                            <p><strong>Deliverance:</strong> Another benefit of hiring Pbcreations, promises you with the timely deliverance of the final product Ecommerce website.</p>
-                            <p><strong>Technical Advancement:</strong> Pbcreations has a team of professional designer and development experts to provide you with a worthier Ecommerce website solution.</p>
+                            <p><strong>Deliverance:</strong> Another benefit of hiring Growth Licious, promises you with the timely deliverance of the final product Ecommerce website.</p>
+                            <p><strong>Technical Advancement:</strong> Growth Licious has a team of professional designer and development experts to provide you with a worthier Ecommerce website solution.</p>
                         </div><br />
 
-                        <h4 className="website-service-head">Best Bet To Hire Pbcreations Professionals</h4>
-                        <p>Pbcreations will provide the feasibility to your business idea. With expert and professional acumen Pbcreations has the best people to measure the earning power of the concept. Our <Link to="ecommerce-website-development-services.php">eCommerce website developer Chandigarh</Link> would be the best bet to hire for the process of ecommerce web design & development.</p>
+                        <h4 className="website-service-head">Best Bet To Hire Growth Licious Professionals</h4>
+                        <p>Growth Licious will provide the feasibility to your business idea. With expert and professional acumen Growth Licious has the best people to measure the earning power of the concept. Our <Link to="ecommerce-website-development-services.php">eCommerce website developer Chandigarh</Link> would be the best bet to hire for the process of ecommerce web design & development.</p>
 
                         <p>Our team has in-depth knowledge and experience in creating ecommerce website that integrate well with mobile transactions. So whether you want to create an ecommerce store with mobile enabled payments or want to create your own e-wallet, we have the right solutions for you.</p>
                     </div>

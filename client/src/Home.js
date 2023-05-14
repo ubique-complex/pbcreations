@@ -3,8 +3,8 @@ import { Helmet } from 'react-helmet'
 import { SliDer } from './SliDer'
 import service1 from './images/1.png'
 import service2 from './images/2.png'
-import service3 from './images/3.png'
-// import service4 from './images/4.png'
+// import service3 from './images/3.png'
+import service4 from './images/4.png'
 import service5 from './images/5.png'
 import service6 from './images/6.png'
 import orderImg1 from './images/marketingicon.png'
@@ -69,7 +69,7 @@ const Home = () => {
 	return (
 		<>
 			<Helmet>
-				<title>Pbcreations | Home</title>
+				<title>Growth Licious | Home</title>
 				<meta name="description" content="Hire best web designer and website developer in Delhi to get creative and responsive website design. Our website maker in Delhi are experienced to take care of SMEs or brand business."></meta>
 				<meta name="Keyword" content="Website Designer In Chandigarh, Web Designers Chandigarh, Website Developer In Chandigarh, Web Developers In Chandigarh, Chandigarh Best Web Designers, Chandigarh Best Website Developers "></meta>
 			</Helmet>
@@ -80,7 +80,7 @@ const Home = () => {
 				<div className="container">
 					<div className="row">
 						<div className="col-sm-12">
-							<h2>Complete Web Solutions <strong style={{ color: '#1AA470' }}>With Right Recomendations</strong></h2>
+							<h2>Complete Web Solutions <strong style={{ color: '#669940' }}>With Right Recomendations</strong></h2>
 							<p>Our specialist are skilled in providing web design & development, mobile app developmeent and digital marketing dervices that increase the overall performance of business Globally.</p>
 						</div>
 					</div>
@@ -96,7 +96,7 @@ const Home = () => {
 									<img src={service1} alt="Serviceimage1" />
 									<h4>Website Design Services</h4>
 									<p>Get creative web designs with the best user interface for multiple platforms that increase the trust flow among users and bring audiences...</p>
-									<button className="btn btn-success buton"><Link to="">Upgrade Your Design</Link></button>
+									<button className="btn btn-success buton"><Link to="/website-design-services">Upgrade Your Design</Link></button>
 								</div>
 							</div>
 							<div className="col-sm-4">
@@ -104,31 +104,31 @@ const Home = () => {
 									<img src={service2} alt="Serviceimage2" />
 									<h4>Search Engine Optimization</h4>
 									<p>Our SEO team's motive is to get high ranking for businesses in top search engine results, which enhances visitors on the website...</p>
-									<button className="btn btn-success buton"><Link to="">Grow Your Business</Link></button>
+									<button className="btn btn-success buton"><Link to="/seo-services">Grow Your Business</Link></button>
 								</div>
 							</div>
-							<div className="col-sm-4">
+							{/* <div className="col-sm-4">
 								<div className="new_service">
 									<img src={service3} alt="Serviceimage3" />
 									<h4>Mobile Application Development</h4>
 									<p>Our core focus is to develop UX/UI designs and add user-friendly navigation for multiple platforms to reach audiences in a easy & effective way...</p>
 									<button className="btn btn-success buton"><Link to="">Make Your App</Link></button>
 								</div>
-							</div>
-							{/* <div className="col-sm-4">
+							</div> */}
+							<div className="col-sm-4">
 								<div className="new_service">
-									<img src={service4}/ alt="Serviceimage4">
+									<img src={service4} alt="Serviceimage4" />
 									<h4>Content Marketing</h4>
 									<p>Another powerful way to attract, engage and convert users into clients through content marketing services which increase website traffic...</p>
-									<Link to="/content-marketing-services">Engage Visitors</Link>
+									<button className="btn btn-success buton"><Link to="/content-marketing-services">Engage Visitors</Link></button>
 								</div>
-							</div> */}
+							</div>
 							<div className="col-sm-4">
 								<div className="new_service">
 									<img src={service5} alt="Serviceimage5" />
 									<h4>E-Commerces Website Design</h4>
 									<p>Customized your ecommerce website design with user-friendly navigation functionality that ensures high traffic & sell your products...</p>
-									<button className="btn btn-success buton"><Link to="">Sale Your Product</Link></button>
+									<button className="btn btn-success buton"><Link to="/ecommerce-website-development-services">Sale Your Product</Link></button>
 								</div>
 							</div>
 							<div className="col-sm-4">
@@ -136,7 +136,7 @@ const Home = () => {
 									<img src={service6} alt="Serviceimage6" />
 									<h4>Pay Per Click Services</h4>
 									<p>PPC(Pay Per Click) or Paid Marketing services is a fast and reliable way to generate traffic and sales for businesses...</p>
-									<button className="btn btn-success buton"><Link to="">Get More Leads</Link></button>
+									<button className="btn btn-success buton"><Link to="/ppc-campaign-marketing-services">Get More Leads</Link></button>
 								</div>
 							</div>
 						</div>
@@ -205,13 +205,13 @@ const Home = () => {
 								<p>As we help clients to achieve their business objectives from the very first day through empowering their business website most convenient, secure and productive way to reach the audience.</p>
 							</div>
 						</div>
-					</div><br />
+					</div><br /><br />
 					<div className="row">
 						<div className="col-md-6">
 							<div className="img-newab">
 								<img data-src="images/check-mark.png" className="right" src={rightImg} alt="shurity" />
 								<div className="textttttt">
-									<h4 className="no-margin"><strong>Grow Your Business With The Help of TrendyPuff</strong></h4>
+									<h4 className="no-margin"><strong>Grow Your Business With The Help of Growth Licious</strong></h4>
 									<p className="justify">Custom website design services is necessary for every business. Our team transform client thoughts into reality, which strengthen the client business value. Our designers & developers believes in developing modern and appealing website designs as per client’s business need.</p>
 								</div>
 							</div>
@@ -226,16 +226,18 @@ const Home = () => {
 							</div>
 						</div>
 					</div>
+					<br />
 					<div className="row">
 						<div className="col-md-6">
 							<div className="img-newab">
 								<img data-src="images/check-mark.png" className="right" src={rightImg} alt="shurity" />
 								<div className="textttttt">
-									<h4 className="no-margin"><strong>Top Digital Marketing Services in Chandigarh NCR</strong></h4>
+									<h4 className="no-margin"><strong>Top Digital Marketing Services in Chandigarh</strong></h4>
 									<p className="justify">Our digital marketing strategists help you overcome online marketing challenges, improve branding and enhance traffic on websites. We ensure that your website receives visibility on major search engines and get top ranking on search engine result page despite of high competition.</p>
 								</div>
 							</div>
 						</div>
+						<br />
 						<div className="col-md-6">
 							<div className="img-newab">
 								<img data-src="images/check-mark.png" className="right" src={rightImg} alt="shurity" />
@@ -251,12 +253,12 @@ const Home = () => {
 			{/* end of another section */}
 			<div className="home-1">
 				<div className="left">
-					<h4>Why Pbcreations...?</h4>
-					<p className="text-justify">Pbcreations listens to our client’s ideas and suggests the best plan for their business to chalk out the creative
+					<h4>Why Growth Licious...?</h4>
+					<p className="text-justify">Growth Licious listens to our client’s ideas and suggests the best plan for their business to chalk out the creative
 						and technically strong solutions that suitable for their business growth. Our top priority is to understand the client’s business expectations
-						and provide them with customized web design services that make them a successful brand. As a Web Developers In Patila, our motive is to offer
+						and provide them with customized web design services that make them a successful brand.<br /><br /> As a Web Developers In Chandigarh, our motive is to offer
 						top-notch services such as mobile apps development, web design and development, and digital marketing services with customer
-						support facilities that enhance business relationships. Our dedicated team is well experienced and passionate about new technologies. We believe in
+						support facilities that enhance business relationships. <br /><br />Our dedicated team is well experienced and passionate about new technologies. We believe in
 						making correct planning and execution from start to end which is crucial for profitable growth. Our best website designer in Chandigarh believes in providing
 						quality based services around the globe, as a result, it gives a solid return that wins client loyalty and brings them back again and again.</p>
 				</div>
@@ -292,6 +294,7 @@ const Home = () => {
 							{/* <!--Step Block--> */}
 							<div className="step-block col-md-3 col-sm-6 col-xs-12">
 								<div className="inner-box">
+									<br />
 									<div className="icon-box">
 										<span className="icon"><img src={mktIcon2} alt="mkt-icon" /></span>
 									</div>
@@ -302,7 +305,8 @@ const Home = () => {
 							{/* <!--Step Block--> */}
 							<div className="step-block col-md-3 col-sm-6 col-xs-12">
 								<div className="inner-box">
-									<div className="icon-box">
+									<br /><br />
+									<div className="icon-box shifter">
 										<span className="icon"><img src={mktIcon3} alt="mkt-icon" /></span>
 									</div>
 									<h3>Find Solution</h3>
@@ -311,9 +315,9 @@ const Home = () => {
 							</div>
 							{/* <!--Step Block--> */}
 							<div className="step-block col-md-3 col-sm-6 col-xs-12">
-								<div className="inner-box">
+								<div className="inner-box ">
+									<br /><br /><br /><br />
 									<div className="icon-box">
-										<span className="icon"><img src={mktIcon4} alt="mkt-icon" /></span>
 										<span className="icon"><img src={mktIcon4} alt="mkt-icon" /></span>
 									</div>
 									<h3>Final Result</h3>
@@ -323,7 +327,7 @@ const Home = () => {
 						</div>
 					</div>
 					<h3>We’ll Make Your Web Marketing! More Efficient!</h3>
-					<Link to="price-packages.php" className="theme-btn btn-style-one">Pricing & Plan</Link>
+					<Link to="/price-packages" className="theme-btn btn-style-one">Pricing & Plan</Link>
 					<div className="container">
 						<div className="ready-for-next" style={{ marginTop: 35 }}>
 							<div className="text">Ready to discuss your <strong>Project</strong>?</div>
@@ -404,7 +408,7 @@ const Home = () => {
 									<label>Logo Designing</label>
 								</div>
 							</div> */}
-								<div className="service-button2" style={{ marginleft: 15 }}><button type="submit" name="submit_button" value="Submit" style={{ paddingTop: 9, paddingBottom: 9, paddingRight: 19, paddingLeft: 14, marginLeft: 13, color: 'white', backgroundColor: '#1AA470', border: 'none' }}>GET A FREE QUOTE</button></div>
+								<div className="service-button2" style={{ marginleft: 15 }}><button type="submit" name="submit_button" value="Submit" style={{ paddingTop: 9, paddingBottom: 9, paddingRight: 19, paddingLeft: 14, marginLeft: 13, color: 'white', backgroundColor: '#669940', border: 'none' }}>GET A FREE QUOTE</button></div>
 							</form>
 						</div>
 					</div>

@@ -41,7 +41,7 @@ const AndroidApp = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | android-application-development-services</title>
+                <title>Growth Licious | android-application-development-services</title>
             </Helmet>
             <div className="development_bg">
                 <div className="container-fluid">
@@ -94,7 +94,7 @@ const AndroidApp = () => {
                     <ol className="breadcrumb" vocab="" typeof="BreadcrumbList">
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ App Solution /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Android App Development</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Android App Development</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -105,7 +105,7 @@ const AndroidApp = () => {
                     <div className="row">
                         <div className="col-sm-12">
                             <h2>Android App Development <span>Specialization</span></h2>
-                            <p style={{ fontSize: '14' }}>Pbcreations develop android apps that fits on every mobile platform, which gives best UI/UX. Our experts use best security features in app to avoid<br /> threats which make your app more efficient and effective.</p><br />
+                            <p style={{ fontSize: '14' }}>Growth Licious develop android apps that fits on every mobile platform, which gives best UI/UX. Our experts use best security features in app to avoid<br /> threats which make your app more efficient and effective.</p><br />
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ const AndroidApp = () => {
                         <div className="">
                             <h2 className="box-header">Cutting Edge Tools and Technologies in <span>Android Development</span></h2>
 
-                            <p>Pbcreations offers qualitative and comprehensive <strong>android app development services in Chandigarh</strong> and serve clients across the globe. Our diverse, experienced and multidisciplinary <strong>android apps developer in Chandigarh</strong> is steeped in delivering top-notch android apps. They are committed to share our innovation and experience to accelerate innovation, subside transformation and bring competitive edge to our clients’ businesses. We have a robust team of skilled programmers to cater to any application requirements. Our expert and experienced <strong>android apps developer in Chandigarh </strong>have worked on projects ranging from a small restaurant menu app to games development to enterprise className applications interfacing with low-level app for video conferencing solutions.</p>
+                            <p>Growth Licious offers qualitative and comprehensive <strong>android app development services in Chandigarh</strong> and serve clients across the globe. Our diverse, experienced and multidisciplinary <strong>android apps developer in Chandigarh</strong> is steeped in delivering top-notch android apps. They are committed to share our innovation and experience to accelerate innovation, subside transformation and bring competitive edge to our clients’ businesses. We have a robust team of skilled programmers to cater to any application requirements. Our expert and experienced <strong>android apps developer in Chandigarh </strong>have worked on projects ranging from a small restaurant menu app to games development to enterprise className applications interfacing with low-level app for video conferencing solutions.</p>
 
                             <p>Our project management, designing, testing and software development team has extensive experience in building new and unique app solutions by imbibing ground-breaking tools & technology, process-oriented strategies and methodologies from start to finish. But that’s not the only reason why our deliverables are best-in-className. The key reason why we are one of the leading service provider in mobile space is that we interact with you as a technical partner and give suggestions about the best tools, processes, models and strategies needed for your app idea. And, for that our UX developers and designers get into your customers shoes to chalk out their business goals. Whatever may be the requirement, be sure that we’ll understand it well and provide you with a cutting-edge solution that is liked by your end customer.</p><br />
 

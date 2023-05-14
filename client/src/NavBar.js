@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import logo from './images/pbc-logo-light-2.svg';
+import logo from './images/Growth-licious-logo-light.svg';
 import sideImg1 from './images/11.png';
 import sideImg2 from './images/22.png';
 import sideImg3 from './images/33.png';
@@ -11,14 +11,16 @@ import './NavBar.css';
 
 
 export const NavBar = () => {
-    const logoStyle = {
-        width: 228,
-    }
+    // const logoStyle = {
+    //     width: 228,
+    //     height: 50,
+    //     marginLeft: 25
+    // }
     return (
         <>
             <nav className="navbar sticky-top navbar-expand-lg navbar-light" style={{ backgroundColor: '#ffffff' }} >
                 <div className="container-fluid">
-                    <Link className="navbar-brand" to="/"><img src={logo} alt="pbcreations" style={logoStyle} /></Link>
+                    <Link className="navbar-brand" to="/"><img src={logo} alt="Growth Licious" className='logostyle' /></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -158,7 +160,7 @@ export const NavBar = () => {
                             <li className="dropdown"><Link to="/web-development-services"><span className="icon"><i><img src={sideImg1} alt="sideimg" /></i><br /><em style={{ marginLeft: 2 }}>Website<br />Development<br /></em></span></Link></li>
                             <li><Link to="/digital-marketing-services"><span className="icon"><i><img src={sideImg2} alt="sideimg" /></i><br /><em style={{ marginLeft: 15 }}>Digital<br />Maketing<br /></em></span></Link></li>
                             <li><Link to="/seo-services"><span className="icon"><i><img src={sideImg3} alt="sideimg" /></i><br /><em style={{ marginLeft: 5 }}>SEO<br />Optimization<br /></em></span></Link></li>
-                            <li style={{ backgroundColor: '#1AA470' }}><Link to=""><span className="icon"><i><img src={sideImg5} alt="sideimg" /></i><br /><em style={{ color: '#fff', marginLeft: 10 }}>Reach Us<br /></em></span></Link></li>
+                            <li style={{ backgroundColor: '#669940' }}><Link to=""><span className="icon"><i><img src={sideImg5} alt="sideimg" /></i><br /><em style={{ color: '#fff', marginLeft: 10 }}>Reach Us<br /></em></span></Link></li>
                         </ul>
                     </div>
                 </nav>

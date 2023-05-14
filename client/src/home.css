@@ -9,19 +9,19 @@
 }
 
 .buton {
-    background-color: #1AA470;
+    background-color: #669940;
     border: none;
     margin: auto;
 }
 
 .buton:hover {
     border: none;
-    background-color: #1AA470;
+    background-color: #669940;
 }
 
 .buton:active {
     outline: none;
-    background-color: #1AA470;
+    background-color: #669940;
 }
 
 .buton a {
@@ -44,7 +44,7 @@
 .new_service a {
     -webkit-transition: all .3s linear;
     transition: all .3s linear;
-    background: #1AA470;
+    background: #669940;
     padding: 8px 0px;
     width: 100%;
     display: block;
@@ -172,7 +172,7 @@
 }
 
 .top_text h2 span {
-    color: #1AA470;
+    color: #669940;
     font-weight: 800;
 }
 
@@ -211,7 +211,7 @@
 .home-1 .left {
     height: 100%;
     color: #fff;
-    background-color: #1AA470;
+    background-color: #669940;
     width: 40%;
     padding: 60px 100px 60px 30px;
 }
@@ -371,13 +371,13 @@
     color: #ffffff;
     font-size: 14px;
     font-weight: 700;
-    background: #1AA470;
+    background: #669940;
     display: inline-block;
     padding: 9px 26px;
     border-radius: 50px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    border: 2px solid #1AA470;
+    border: 2px solid #669940;
     transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -451,7 +451,7 @@
     width: 20%;
     box-sizing: border-box;
     text-align: center;
-    background: #1AA470;
+    background: #669940;
     border-radius: 0 5px 5px 0;
     padding: 25px 0 21px;
 }
@@ -581,7 +581,7 @@ textarea.form-control {
     .home-1>.left {
         height: auto;
         color: #fff;
-        background-color: #1AA470;
+        background-color: #669940;
         width: 100%;
         padding: 30px;
     }
@@ -622,11 +622,11 @@ textarea.form-control {
 
     .home-1>.right>ul>li>img {
         height: inherit;
-        width: 10px;
+        width: 40px;
     }
 
     .img-newab img {
-        width: 10px;
+        width: 35px;
     }
 }
 

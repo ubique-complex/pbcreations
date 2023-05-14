@@ -6,7 +6,7 @@ export const FlyerDesign = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Flyer-design-services</title>
+                <title>Growth Licious | Flyer-design-services</title>
             </Helmet>
             <div className="head portfolio">
                 <div className="container">
@@ -20,7 +20,7 @@ export const FlyerDesign = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Web Solution /</Link></li>
                         <li><Link to="#">Graphic / </Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Flyer Design</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Flyer Design</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -34,7 +34,7 @@ export const FlyerDesign = () => {
                             <p>Flyers are the most effective and impressive way for businesses to promote their events, products, and services. Eye-catching pictures and engaging words are an essential part of flyer designing that has the power to attract online users. As we offers <strong>flyer design services in Chandigarh</strong>, we know it requires a lot of attention and creativity from designers and that's what our designers do.</p><br />
 
                             <div className="services_inn_bg">
-                                <h4 className="website-service-head">Pbcreations helps your business by flyer designing services in Chandigarh:</h4>
+                                <h4 className="website-service-head">Growth Licious helps your business by flyer designing services in Chandigarh:</h4>
                                 <ul className="mobile_list">
                                     <li><i className="fa fa-hand-o-right"></i> Eye-catching design with relevant text and images</li>
                                     <li><i className="fa fa-hand-o-right"></i> Our colours concept that enhance your message</li>
@@ -46,7 +46,7 @@ export const FlyerDesign = () => {
                             <h4 className="website-service-head">Customize Your Own Flyer Designs</h4>
                             <p>Our <strong>Flyer designer in Chandigarh</strong> believes in providing customized flyer designs. We listen to our client's ideas and suggestions before flyer designing process so that we can deliver them business oriented-results. Our professional <strong>flyer designer in Chandigarh</strong> crafts your flyer that promotes your brand to reach the right audience. Our designers are experienced and enough capable to figure out your flyer requirement and create pleasant designs.</p>
 
-                            <p>We have team of designers who helps clients to expand their business through <strong>flyer design services in Chandigarh</strong>. Our affordable fees give you what you need and hope that Pbcreations will prove to be a helpful resource for your brand.</p>
+                            <p>We have team of designers who helps clients to expand their business through <strong>flyer design services in Chandigarh</strong>. Our affordable fees give you what you need and hope that Growth Licious will prove to be a helpful resource for your brand.</p>
                         </div>
                     </div>
                     <div className="col-sm-3">

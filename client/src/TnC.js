@@ -7,7 +7,7 @@ export const TnC = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | term-and-conditions</title>
+                <title>Growth Licious | term-and-conditions</title>
             </Helmet>
             <div className="head portfolio imgs">
                 <div className="container">
@@ -19,7 +19,7 @@ export const TnC = () => {
                 <div className="container-fluid">
                     <ol className="breadcrumb" vocab="" typeof="BreadcrumbList">
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>/ Term-and-conditions</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>/ Term-and-conditions</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -29,7 +29,7 @@ export const TnC = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
-                            <h2>Pbcreations <span>Terms & Condition</span></h2>
+                            <h2>Growth Licious <span>Terms & Condition</span></h2>
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ export const TnC = () => {
                         <div className="col-sm-12">
                             <h2 className="box-header">STANDARD <span>TERMS AND CONDITIONS</span></h2>
                             <p>Our standard of terms and conditions are applicable to Web Design & Development, Mobile App Development, Custom Software Development, and Digital Marketing Services apply to all contracts that work undertaken by TrendPuff for its clients.</p>
-                            <p>Pbcreations has right to update any prior notice under any condition can edit this agreement and all the changes would become applicable as soon as they appear on the website. Whenever you visit our website must acknowledge our terms of use.</p>
+                            <p>Growth Licious has right to update any prior notice under any condition can edit this agreement and all the changes would become applicable as soon as they appear on the website. Whenever you visit our website must acknowledge our terms of use.</p>
 
                             <h2 className="box-header">OUR <span>FEES AND DEPOSITS</span></h2>
                             <p>To start working with the project 50% fee of the total fee should be submitted immediately as per company terms for further process. The remaining 50% fee will be paid on installments basis till the project has not delivered to the client or published.</p>
@@ -54,10 +54,10 @@ export const TnC = () => {
                             <p>We will provide you multiple designs so that you can finalize one of the design. However, we have the right to decide the limit of the design number. We can charge you for additional designs once the original design finalized.</p>
 
                             <h2 className="box-header">APPROVAL <span>AND REJECTION OF WORK</span></h2>
-                            <p>After completing the project, Pbcreations notifies you to review it. If any changes required, write all unsatisfactory points in detail and let us know in writing within 7 days. If you reject any of our work within the review period. We will fix issues and ensure you the perfection of the project.</p>
+                            <p>After completing the project, Growth Licious notifies you to review it. If any changes required, write all unsatisfactory points in detail and let us know in writing within 7 days. If you reject any of our work within the review period. We will fix issues and ensure you the perfection of the project.</p>
 
                             <h2 className="box-header">PAYMENT</h2>
-                            <p>Pbcreations will send you the invoice for balance 50% fee after successful project delivery.</p>
+                            <p>Growth Licious will send you the invoice for balance 50% fee after successful project delivery.</p>
                         </div>
                     </div>
                 </div>

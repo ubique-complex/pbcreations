@@ -50,7 +50,7 @@ const Seo = () => {
         <>
             <div>
                 <Helmet>
-                    <title>Ubique Creations | seo-services</title>
+                    <title>Growth Licious | seo-services</title>
                     <meta name="description" content="Our  SEO agency provides you the best SEO services in Chandigarh, India with 100% results. Our SEO experts are suitable for all types of businesses such as Startups to brands." />
                     <meta name="keywords" content="SEO Agency In Chandigarh, SEO Service In Chandigarh, SEO Expert In Chandigarh, Best SEO Experts In Chandigarh, Chandigarh SEO Agency" />
                 </Helmet>
@@ -60,7 +60,7 @@ const Seo = () => {
                             <div className="col-sm-8">
                                 <div className="ineer_serv_textt">
                                     <h2>SEO Services</h2>
-                                    <p>As a SEO agency, we deliver the best SEO services in Chandigarh and other parts of the country. It’s the best way to enhance brand reputation over the Internet. You need to hire an experienced SEO team like Ubique Creations.</p>
+                                    <p>As a SEO agency, we deliver the best SEO services in Chandigarh and other parts of the country. It’s the best way to enhance brand reputation over the Internet. You need to hire an experienced SEO team like Growth Licious.</p>
                                     <h2 style={{ color: '#52ff59' }}>Call @ +91-79863 78511</h2>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@ const Seo = () => {
                             <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                             <li><Link to="#">/ Digital Marketing /</Link></li>
                             <li><Link to="#">SEO /</Link></li>
-                            <li><Link style={{ color: '#59c178' }}><span>SEO Services</span></Link></li>
+                            <li><Link style={{ color: '#669940' }}><span>SEO Services</span></Link></li>
                         </ol>
                     </div>
                 </div>
@@ -127,10 +127,10 @@ const Seo = () => {
                     <div className="container">
                         <div className="row">
                             <div className="col-sm-12">
-                                <h2 className="box-header">Why Opt Ubique Creations For<span> SEO Services In Chandigarh...?</span></h2>
-                                <p>Ubique Creations provides SEO services in Chandigarh and across the world with an objective to deliver top className SEO solutions to clients. As a <strong>SEO agency</strong>, Our experts make SEO strategy for clients website in a such way that their business get noticed by the relevant audiences in search engine result. Our team actively work according to the search engine algorithms and the latest marketing trends to provide a satisfactory result. Through result-oriented search engine optimization, we provide the most effective Online marketing services to established brands and startups. We offer one of the <strong>best SEO services in Chandigarh</strong> at a reasonable price. </p>
+                                <h2 className="box-header">Why Opt Growth Licious For<span> SEO Services In Chandigarh...?</span></h2>
+                                <p>Growth Licious provides SEO services in Chandigarh and across the world with an objective to deliver top className SEO solutions to clients. As a <strong>SEO agency</strong>, Our experts make SEO strategy for clients website in a such way that their business get noticed by the relevant audiences in search engine result. Our team actively work according to the search engine algorithms and the latest marketing trends to provide a satisfactory result. Through result-oriented search engine optimization, we provide the most effective Online marketing services to established brands and startups. We offer one of the <strong>best SEO services in Chandigarh</strong> at a reasonable price. </p>
 
-                                <p>At Ubique Creations, we have a team of talented professionals who believes in to deliver fantastic result with proven <strong>SEO services in Chandigarh</strong>. Our marketing professionals have in-depth expertise in SEO techniques which means high traffic, leads, and sales for clients business. As SEO is an ongoing process, our <strong>SEO expert</strong> makes continuous tweaks to maintain website visibility in top searches of search engines that help them to generate more traffic for a website. Our team knows how to index a new website and get it into top searches. So, are you ready to improve the Online presence of your website?</p><br />
+                                <p>At Growth Licious, we have a team of talented professionals who believes in to deliver fantastic result with proven <strong>SEO services in Chandigarh</strong>. Our marketing professionals have in-depth expertise in SEO techniques which means high traffic, leads, and sales for clients business. As SEO is an ongoing process, our <strong>SEO expert</strong> makes continuous tweaks to maintain website visibility in top searches of search engines that help them to generate more traffic for a website. Our team knows how to index a new website and get it into top searches. So, are you ready to improve the Online presence of your website?</p><br />
                             </div>
                         </div>
                     </div>

@@ -41,7 +41,7 @@ const EmailMarket = () => {
 	return (
 		<>
 			<Helmet>
-				<title>Pbcreations | Email-marketing-services</title>
+				<title>Growth Licious | Email-marketing-services</title>
 			</Helmet>
 			<div className="development_bg">
 				<div className="container-fluid">
@@ -49,7 +49,7 @@ const EmailMarket = () => {
 						<div className="col-sm-8">
 							<div className="ineer_serv_textt">
 								<h2>Email Marketing Services</h2>
-								<p>Our team have maintained Pbcreations as best email marketing services provider in Chandigarh. If you are looking for email marketing services then Pbcreations is the right choice for your business.</p>
+								<p>Our team have maintained Growth Licious as best email marketing services provider in Chandigarh. If you are looking for email marketing services then Growth Licious is the right choice for your business.</p>
 								<h2 style={{ color: '#52ff59' }}>Call @ +91-79863 78511</h2>
 							</div>
 						</div>
@@ -93,7 +93,7 @@ const EmailMarket = () => {
 						<li><Link to="/"> <span className="fa fa-home"></span></Link></li>
 						<li><Link to="/digital-marketing-services">/ Digital Marketing /</Link></li>
 						<li><Link to="#">Lead /</Link></li>
-						<li><Link style={{ color: '#59c178' }}><span>Email Marketing</span></Link></li>
+						<li><Link style={{ color: '#669940' }}><span>Email Marketing</span></Link></li>
 					</ol>
 				</div>
 			</div>
@@ -121,7 +121,7 @@ const EmailMarket = () => {
 								<p>When it comes to the electronic mailers, the simple and clear message sent to qualified, targeted prospects will fetch the best return on your efforts. We ensure that your EDMs are beautifully created and presented in a professional outlook that reinforces your brand proposition and generates attractive click-through rates. Furthermore, we evaluate the current landing pages of the site and create new gateways if required.</p><br />
 
 								<div className="services_inn_bg">
-									<h4 className="website-service-head">Why Pbcreations Is Best for Email Marketing Services In Chandigarh..?</h4>
+									<h4 className="website-service-head">Why Growth Licious Is Best for Email Marketing Services In Chandigarh..?</h4>
 									<div className="row">
 										<div className="col-sm-6">
 											<div className="bgfff">

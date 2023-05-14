@@ -1,6 +1,6 @@
 var createError = require('http-errors');
 var express = require('express');
-const port = 3001
+const port = process.env.PORT || 3001
 var path = require('path');
 var cookieParser = require('cookie-parser');
 // var logger = require('morgan');
@@ -22,11 +22,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, './client/build')));
-app.get('*', function (res, req) {
-  res.sendFile(path.join(__dirname, './client/build/index.html'));
-});
+// app.get('*', function (res, req) {
+//   res.sendFile(path.join(__dirname, './client/build/index.html'));
+// });
 var corsOptions = {
-  origin: "http://localhost:3000"
+  origin: "https://ubique-creations.onrender.com"
 }; // Use this after the variable declaration
 app.use(cors(corsOptions));
 app.use('/', indexRouter);

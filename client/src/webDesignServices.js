@@ -43,7 +43,7 @@ const WebDesignServices = () => {
         event.preventDefault();
         axios({
             method: "POST",
-            url: "/send",
+            url: "https://ubique-creations.onrender.com/send",
             data: state
         }).then((res) => {
             console.log(res);
@@ -69,7 +69,7 @@ const WebDesignServices = () => {
         // })
         //     .catch(() => {
         //         setResult({ success: false, message: 'Something went wrong. try again later' });
-        //     });
+        // });
     };
 
 
@@ -87,7 +87,7 @@ const WebDesignServices = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Web Design Services</title>
+                <title>Growth Licious | Web Design Services</title>
                 <meta name="description" content="Get professional web designing services in Chandigarh, India. Our experienced website designer creates eye-catchy website, takes your Online business to the next level." />
                 <meta name="keywords" content="Web Designing Services Chandigarh, Web Designing In Chandigarh, Website Design In Chandigarh, Web Design Service In Chandigarh" />
             </Helmet>
@@ -146,7 +146,7 @@ const WebDesignServices = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="/website-design-services" style={{ textDecoration: 'none' }}>&nbsp;/ Web Solution /</Link></li>
                         <li><Link to="" style={{ textDecoration: 'none' }}>&nbsp;Design /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Web Design Services</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Web Design Services</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -157,7 +157,7 @@ const WebDesignServices = () => {
                     <div className="row">
                         <div className="col-sm-12">
                             <h2>We offer a wide range of<span> website design services</span></h2>
-                            <p>Pbcreations primary objective is to fulfill the client's business requirement and provide them excellent website development services which strengthen the business value.</p><br />
+                            <p>Growth Licious primary objective is to fulfill the client's business requirement and provide them excellent website development services which strengthen the business value.</p><br />
                         </div>
                     </div>
                 </div>
@@ -168,7 +168,7 @@ const WebDesignServices = () => {
                     <div className="col-sm-9 mobile-text">
                         <div className="">
                             <h2 className="box-header">Exquisite <span>Web Design Solutions </span></h2>
-                            <p>Pbcreations provides top className <strong>website design services in Chandigarh</strong>. We know website design plays an important role in the online world. Our website designers understand the importance of web designing and believe in delivering unique and quality designs.</p><br />
+                            <p>Growth Licious provides top className <strong>website design services in Chandigarh</strong>. We know website design plays an important role in the online world. Our website designers understand the importance of web designing and believe in delivering unique and quality designs.</p><br />
 
                             <div className="services_inn_bg">
                                 <h4 className="website-service-head">Why Great Design Works? | How to Redesign your website...?</h4>
@@ -204,7 +204,7 @@ const WebDesignServices = () => {
                                     <div className="web_sub_Serv">
                                         <img src={webImg3} alt="imm" />
                                         <h4>CMS Website Design</h4>
-                                        <p>Get CMS website design services from Pbcreations. CMS websites are easy to maintain...</p>
+                                        <p>Get CMS website design services from Growth Licious. CMS websites are easy to maintain...</p>
                                         <Link to="/cms-website-design-services">Read More</Link>
                                     </div>
                                 </div>
@@ -248,7 +248,7 @@ const WebDesignServices = () => {
 							--> */}
                             </div>
                             <br />
-                            <p>After recognizing your business need, our designers implement your business idea into reality by creating innovative and effecting web designs with efficient technical knowledge. Pbcreations team care about your business and committed to delivered quality <strong>website designing services in Chandigarh</strong> that’s why our team show you the best web layout and suggest clients to choose the suitable theme for their business that can be helpful to attract customers.</p><br />
+                            <p>After recognizing your business need, our designers implement your business idea into reality by creating innovative and effecting web designs with efficient technical knowledge. Growth Licious team care about your business and committed to delivered quality <strong>website designing services in Chandigarh</strong> that’s why our team show you the best web layout and suggest clients to choose the suitable theme for their business that can be helpful to attract customers.</p><br />
 
                             <div className="services_inn_bg">
                                 <h4 className="website-service-head">Transform Your Virtual Idea Into Reality</h4>

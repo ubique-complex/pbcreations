@@ -45,7 +45,7 @@ const GraphicDesign = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | magento-website-development-services</title>
+                <title>Growth Licious | magento-website-development-services</title>
                 <meta name="description" content="Hire graphic designers in Chandigarh, India. Our graphic designing service includes awesome creatives like website design, logo design, ads designs, etc." />
                 <meta name="keywords" content="Graphic Designing In Chandigarh, Graphic Designer Chandigarh, Graphic Designing Service In Chandigarh, Graphic Designer In Chandigarh" />
             </Helmet>
@@ -101,7 +101,7 @@ const GraphicDesign = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Web Solution /</Link></li>
                         <li><Link to="#">Graphic /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Graphic Design Services</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Graphic Design Services</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -123,7 +123,7 @@ const GraphicDesign = () => {
                     <div className="row">
                         <div className="col-sm-9">
                             <h2 className="box-header">We Create <span>Designs You Remember</span></h2>
-                            <p>Graphic designing are extremely crucial for any businesses. Every business requires high-quality content for both Offline and Online marketing promotion. Pbcreations providing best <strong>graphic designing services in Chandigarh</strong> to startups or a well established brand. We have a top-className <strong>graphic designer in Chandigarh</strong>, who are expert in designing awesome creatives such as websites, logo, business cards, brochures, images, etc. to impress the client's customer. Our graphic designers know the importance of color combination, image selection, text style and layout in the particular design.</p>
+                            <p>Graphic designing are extremely crucial for any businesses. Every business requires high-quality content for both Offline and Online marketing promotion. Growth Licious providing best <strong>graphic designing services in Chandigarh</strong> to startups or a well established brand. We have a top-className <strong>graphic designer in Chandigarh</strong>, who are expert in designing awesome creatives such as websites, logo, business cards, brochures, images, etc. to impress the client's customer. Our graphic designers know the importance of color combination, image selection, text style and layout in the particular design.</p>
 
                             <p>First of all, our graphic designers understand the objective of the client's business to provide them impressive <strong>graphic designing services in Chandigarh</strong>. Our designer's design graphics in an artistic way that creatively communicate through images and layouts directly to the audiences without any problem. Our designer uses advanced tools for designing such as Adobe Illustrator, Adobe Photoshop, CorelDraw, Adobe InDesign, etc. Having a world className team of <strong>graphic designer in Chandigarh</strong>, we helps our clients by delivering an effective and influential graphic design that draw customers attention towards their brand.</p><br />
 
@@ -177,7 +177,7 @@ const GraphicDesign = () => {
                                 <div className="per_cust">
                                     <figure><img src={img2} alt="img2" /></figure>
                                     <figcaption><h3>Quick Turnaround</h3></figcaption>
-                                    <p>Pbcreations believes in building long term relationship with our clients that why we deliver top-notch graphics without any delay. Time is equally important for us as it is for you.</p>
+                                    <p>Growth Licious believes in building long term relationship with our clients that why we deliver top-notch graphics without any delay. Time is equally important for us as it is for you.</p>
                                     <div className="border_incl"></div>
                                 </div>
                             </div>

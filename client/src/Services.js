@@ -11,7 +11,7 @@ class Services extends Component {
             <>
                 <div>
                     <Helmet>
-                        <title>Ubique Creations | seo-services</title>
+                        <title>Growth Licious | seo-services</title>
                         <meta name="description" content="Our  SEO agency provides you the best SEO services in Chandigarh, India with 100% results. Our SEO experts are suitable for all types of businesses such as Startups to brands." />
                         <meta name="keywords" content="SEO Agency In Chandigarh, SEO Service In Chandigarh, SEO Expert In Chandigarh, Best SEO Experts In Chandigarh, Chandigarh SEO Agency" />
                     </Helmet>
@@ -25,7 +25,7 @@ class Services extends Component {
                         <div className="container-fluid">
                             <ol className="breadcrumb" vocab="" typeof="BreadcrumbList">
                                 <li><Link to="https://www.Ubiquecreations.com/"> <span className="fa fa-home"></span></Link></li>
-                                <li><Link style={{ color: '#59c178' }}><span>/Our Service</span></Link></li>
+                                <li><Link style={{ color: '#669940' }}><span>/Our Service</span></Link></li>
                             </ol>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ class Services extends Component {
                             <div className="row">
                                 <div className="col-sm-12">
                                     <h2>HIRE <span>DEVELOPERS</span></h2>
-                                    <p>Hire a team of experienced and full-time resource from Ubique Creations. Our developers finish their work on time without compromising with the quality. Keep away your concerns by hiring us!</p>
+                                    <p>Hire a team of experienced and full-time resource from Growth Licious. Our developers finish their work on time without compromising with the quality. Keep away your concerns by hiring us!</p>
                                     <div align="center"><a href="contact-us.php" className="portfolio_button">Enquiry Now</a></div>
                                 </div>
                             </div>

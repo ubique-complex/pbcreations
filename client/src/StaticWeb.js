@@ -7,7 +7,7 @@ export const StaticWeb = () => {
 	return (
 		<>
 			<Helmet>
-				<title>Pbcreations | static-website-design-services</title>
+				<title>Growth Licious | static-website-design-services</title>
 			</Helmet>
 			<div className="head portfolio">
 				<div className="container">
@@ -21,7 +21,7 @@ export const StaticWeb = () => {
 						<li><Link to="/"> <span className="fa fa-home"></span></Link></li>
 						<li><Link to="#">/ Web Solution /</Link></li>
 						<li><Link to="/website-design-services">Design /</Link></li>
-						<li><Link style={{ color: '#59c178' }}><span>Static Website Design</span></Link></li>
+						<li><Link style={{ color: '#669940' }}><span>Static Website Design</span></Link></li>
 					</ol>
 				</div>
 			</div>
@@ -63,9 +63,9 @@ export const StaticWeb = () => {
 							</div>
 							<br />
 
-							<p><strong>Static website design service in Chandigarh</strong> is an ideal platform for small website. At Pbcreations, Our developers implement the necessary code to make your website secure, navigation friendly and mobile responsive. Pbcreations take less time and less money in design and development process of static websites. These kinds of websites are faster while loading and browsing on slow connection.</p>
+							<p><strong>Static website design service in Chandigarh</strong> is an ideal platform for small website. At Growth Licious, Our developers implement the necessary code to make your website secure, navigation friendly and mobile responsive. Growth Licious take less time and less money in design and development process of static websites. These kinds of websites are faster while loading and browsing on slow connection.</p>
 
-							<p>Get in touch with Pbcreations’s professionals at <Link to="mailto:pbcreationsin@gmail.com">pbcreationsin@gmail.com</Link> or call us +91 79863 78511 to discuss your idea so we can implement customized solution and enhance your business growth.</p>
+							<p>Get in touch with Growth Licious’s professionals at <Link to="mailto:Growth Liciousin@gmail.com">Growth Liciousin@gmail.com</Link> or call us +91 79863 78511 to discuss your idea so we can implement customized solution and enhance your business growth.</p>
 						</div>
 						<div className="col-sm-3">
 							<div className="right-web-services">

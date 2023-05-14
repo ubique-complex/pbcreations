@@ -45,7 +45,7 @@ const BrochureDesign = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | brochure-design-services</title>
+                <title>Growth Licious | brochure-design-services</title>
             </Helmet>
             <div className="development_bg imgse">
                 <div className="container-fluid">
@@ -99,7 +99,7 @@ const BrochureDesign = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Web Solution /</Link></li>
                         <li><Link to="#">Graphic /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Brochure Design</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Brochure Design</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -123,7 +123,7 @@ const BrochureDesign = () => {
 
                             <p>Brochures are the perfect tool for marketing, which tell customers deeply about the services and products of the business. It makes your business more valuable and demonstrates the professionalism of your brand. As we offer <strong>brochure design services in Chandigarh</strong>, provides wide range of design services which require creativity and innovative ideas from experienced designers.</p><br />
                             <div className="services_inn_bg">
-                                <h4 className="website-service-head">Why Choose Pbcreations For Professional Brochure Design Services In Chandigarh</h4>
+                                <h4 className="website-service-head">Why Choose Growth Licious For Professional Brochure Design Services In Chandigarh</h4>
                                 <ul className="mobile_list">
                                     <li><i className="fa fa-hand-o-right"></i> Believe In client satisfaction</li>
                                     <li><i className="fa fa-hand-o-right"></i> Design customized brochure with unique idea</li>
@@ -192,8 +192,8 @@ const BrochureDesign = () => {
                     <div className="row">
                         <div className="col-sm-6">
                             <h2 className="box-header">Get Brochures<span> Design Services</span></h2>
-                            <p>As per brochure designers requirement, the client must provide all essential details of products or services in a visually appealing manner. At Pbcreations, Our graphic designers believe in designing unique brochure designs to make a desirable impact on Offline and Online users. We know that brochures contain product and service details with the high-quality images and texts. The brochures we create are sufficiently powerful to enhance website traffic.</p>
-                            <p>Pbcreations professional <strong>brochure designers in Chandigarh</strong>, believes in creating effective brochures to serve all industries. Our specialists ensure that your brochures meet all the needs of your business and effectively convey your message to your users. So hire us for brochure design need...!</p>
+                            <p>As per brochure designers requirement, the client must provide all essential details of products or services in a visually appealing manner. At Growth Licious, Our graphic designers believe in designing unique brochure designs to make a desirable impact on Offline and Online users. We know that brochures contain product and service details with the high-quality images and texts. The brochures we create are sufficiently powerful to enhance website traffic.</p>
+                            <p>Growth Licious professional <strong>brochure designers in Chandigarh</strong>, believes in creating effective brochures to serve all industries. Our specialists ensure that your brochures meet all the needs of your business and effectively convey your message to your users. So hire us for brochure design need...!</p>
                             <Link to="contact-us.php" className="portfolio_button">Send Us Query</Link>
                         </div>
                         <div className="col-sm-6">

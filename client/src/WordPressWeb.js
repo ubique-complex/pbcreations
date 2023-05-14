@@ -11,7 +11,7 @@ export const WordPressWeb = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | wordpress-website-development-services</title>
+                <title>Growth Licious | wordpress-website-development-services</title>
             </Helmet>
             <div className="head portfolio">
                 <div className="container">
@@ -22,10 +22,10 @@ export const WordPressWeb = () => {
             <div className="bedcrumb_service">
                 <div className="container-fluid">
                     <ol className="breadcrumb" vocab="" typeof="BreadcrumbList">
-                        <li><Link to="https://www.Pbcreations.in/"> <span className="fa fa-home"></span></Link></li>
+                        <li><Link to="https://www.Growth Licious.in/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Web Solution /</Link></li>
                         <li><Link to="#">Development /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>WordPress Development</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>WordPress Development</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -36,7 +36,7 @@ export const WordPressWeb = () => {
                     <div className="row">
                         <div className="col-sm-9">
                             <h2 className="box-header">We Build Rich, Robust And Scalable <span> WordPress Websites</span></h2>
-                            <p>Needless to say, WordPress is still the most popular CMS for website development. With a sizeable number of plugins available, numerous complex and useful features can be added to a WordPress website. <strong>Wordpress website developers in Chandigarh</strong> are experts and professionals when it comes to customization. We have been playing around with WordPress for enough time to create a customized, robust, secure Wordpress website. Pbcreations aim is to deliver top <strong>Wordpress website development services in Chandigarh</strong> and across the country.</p>
+                            <p>Needless to say, WordPress is still the most popular CMS for website development. With a sizeable number of plugins available, numerous complex and useful features can be added to a WordPress website. <strong>Wordpress website developers in Chandigarh</strong> are experts and professionals when it comes to customization. We have been playing around with WordPress for enough time to create a customized, robust, secure Wordpress website. Growth Licious aim is to deliver top <strong>Wordpress website development services in Chandigarh</strong> and across the country.</p>
 
                             <h4 className="website-service-head">Here are Some Features Of WordPress:</h4>
                             <p>Wordpress CMS is a simple platform to build a website. Our <strong>Wordpress website developers in Chandigarh</strong> customized your website from blogs, to portfolio sites, to e-commerce. In below section we have mentioned few features:</p><br />
@@ -92,7 +92,7 @@ export const WordPressWeb = () => {
                                 </div>
                             </div><br />
 
-                            <h4 className="website-service-head">Why Pbcreations..?</h4>
+                            <h4 className="website-service-head">Why Growth Licious..?</h4>
                             <p>WordPress not just requires a website to be set up by installing the CMS on your server. If you wish to build a full-fledged professional website, a lot goes into it. From PSD to WordPress conversion to configuration of the website using custom themes and plugins, a WordPress website needs substantial efforts and expertise. We do not just rely on the ready-made themes and plugins available in the market but build them according to your specific requirements. So for a professional website you need a <strong>wordpress website development services in Chandigarh</strong> that can provide you below services:</p><br />
 
                             <div className="services_inn_bg">
@@ -118,14 +118,14 @@ export const WordPressWeb = () => {
                                     <div className="col-sm-6">
                                         <div className="bgfff">
                                             <h4>No Hidden Charges</h4>
-                                            <p>Pbcreations's team believes in honesty and don't charge any hidden cost from the clients.</p>
+                                            <p>Growth Licious's team believes in honesty and don't charge any hidden cost from the clients.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <br />
 
-                            <p>Pbcreations has seen WordPress evolving from a blogging CMS to a platform that has the potential to help you create fully-functional websites. Our excellent team of deft developers are well-versed with WordPress, PHP, JS, HTML and other technologies that are required to accomplish unmatched WordPress development.</p>
+                            <p>Growth Licious has seen WordPress evolving from a blogging CMS to a platform that has the potential to help you create fully-functional websites. Our excellent team of deft developers are well-versed with WordPress, PHP, JS, HTML and other technologies that are required to accomplish unmatched WordPress development.</p>
                         </div>
                         <div className="col-sm-3">
                             <div className="right-web-services">

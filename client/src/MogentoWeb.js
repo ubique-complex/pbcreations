@@ -42,7 +42,7 @@ const MogentoWeb = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | magento-website-development-services</title>
+                <title>Growth Licious | magento-website-development-services</title>
             </Helmet>
             <div className="development_bg">
                 <div className="container-fluid">
@@ -50,7 +50,7 @@ const MogentoWeb = () => {
                         <div className="col-sm-8">
                             <div className="ineer_serv_textt">
                                 <h2>Magento Website Development Service Chandigarh</h2>
-                                <p>Accelerate your small, mid-size and enterprise-level businesses who want to empower their business with the help of eCommerce platforms. At Pbcreations, our professionals Magento developers build a versatile eCommerce website for your business.</p>
+                                <p>Accelerate your small, mid-size and enterprise-level businesses who want to empower their business with the help of eCommerce platforms. At Growth Licious, our professionals Magento developers build a versatile eCommerce website for your business.</p>
                                 <h2 style={{ color: '#52ff59' }}>Call @ 79863 78511</h2>
                             </div>
                         </div>
@@ -94,7 +94,7 @@ const MogentoWeb = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Web Solution /</Link></li>
                         <li><Link to="#">Development /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Magento Development</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Magento Development</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -107,7 +107,7 @@ const MogentoWeb = () => {
                             <h2 className="box-header">Magento <span>Website Customization</span></h2>
                             <p>Having a customized eCommerce website, It just like a dream come true for many small businesses such as retailers and small brands. But the fact is that whatever business you are doing, it does not matter if you want an e-Store website, you can hire a Magento web development service provider. Magento is a feature-rich platform for businesses to develop a dynamic eCommerce website. Hence, our aim is to develop an eStore website that can connect our clients with potential online customers and convert them into a permanent user.</p>
 
-                            <p>At Pbcreations, our Magento developers provide bespoke <strong>Magento web development services in Chandigarh</strong> and other parts of India. They listen to your idea and craft a beautiful eStore website that will provide a phenomenal shopping experience to online users. Users will be able to access your website on any platform such as mobile devices, desktop, laptop, etc. And, we want to ensure our clients that their Magento website will generate more sales.</p><br />
+                            <p>At Growth Licious, our Magento developers provide bespoke <strong>Magento web development services in Chandigarh</strong> and other parts of India. They listen to your idea and craft a beautiful eStore website that will provide a phenomenal shopping experience to online users. Users will be able to access your website on any platform such as mobile devices, desktop, laptop, etc. And, we want to ensure our clients that their Magento website will generate more sales.</p><br />
 
                             <h4 className="new_head">Our Developers Approach For Magento Website Development:</h4>
 
@@ -149,7 +149,7 @@ const MogentoWeb = () => {
 
                             <p>As we are a part of <strong>Magento website development services in Chandigarh</strong>, India, Our motive is to deliver business-oriented results at a minimal cost. Therefore, Our Magento website developers have enough experience to provide you reliable, scalable, flexible and secure eStore websites. We are here to help you with your idea so that your business can be elevated to new heights.</p>
 
-                            <p>So, working with an experienced team who have the right knowledge in Magento website development, they always provide results-driven eStore websites for business. Mail us: <Link to="mailto:pbcreationsin@gmail.com">pbcreationsin@gmail.com</Link> or Call Now: +91 79863 78511</p>
+                            <p>So, working with an experienced team who have the right knowledge in Magento website development, they always provide results-driven eStore websites for business. Mail us: <Link to="mailto:Growth Liciousin@gmail.com">Growth Liciousin@gmail.com</Link> or Call Now: +91 79863 78511</p>
                         </div>
                         <div className="col-sm-3">
                             <div className="right-web-services">

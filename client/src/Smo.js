@@ -42,7 +42,7 @@ const Smo = () => {
     return (
         <>
             <Helmet>
-                <title>Ubique Creations | smo-marketing-services</title>
+                <title>Growth Licious | smo-marketing-services</title>
             </Helmet>
             <div className="development_bg">
                 <div className="container-fluid">
@@ -94,7 +94,7 @@ const Smo = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Digital Marketing /</Link></li>
                         <li><Link to="#">SMO /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>SMO Services</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>SMO Services</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -116,11 +116,11 @@ const Smo = () => {
                     <div className="col-sm-9 mobile-text">
                         <div className="">
                             <h2 className="box-header">Social Media<span> Marketing Services</span></h2>
-                            <p>As Ubique Creations provides <strong>SMO marketing services in Chandigarh</strong>, our experts know the fundamental principles of marketing still apply to social media marketing. Our experienced SMO experts creates effective social media marketing strategy to grow your business, maintain traffic on your social profiles and enhance engagement with the audience. Our experts offers <strong>SMM marketing services in Chandigarh</strong> as per your business requirement.</p>
+                            <p>As Growth Licious provides <strong>SMO marketing services in Chandigarh</strong>, our experts know the fundamental principles of marketing still apply to social media marketing. Our experienced SMO experts creates effective social media marketing strategy to grow your business, maintain traffic on your social profiles and enhance engagement with the audience. Our experts offers <strong>SMM marketing services in Chandigarh</strong> as per your business requirement.</p>
 
-                            <p>Ubique Creations offers the expertise you need to reach out to consumers or a defined audience, and drive traffic to your Website. With the right strategy and planning, our <strong>SMO services in Chandigarh</strong> can turn your social media posts  into a powerful lead generation tool.</p>
+                            <p>Growth Licious offers the expertise you need to reach out to consumers or a defined audience, and drive traffic to your Website. With the right strategy and planning, our <strong>SMO services in Chandigarh</strong> can turn your social media posts  into a powerful lead generation tool.</p>
 
-                            <p>With the help of  social media websites, Our SMO experts improve online brand visibility. Identifies the key parameters of Social media audience behavior and suggest better solution to client. Ubique Creations provides both positive and negative feedback to customers, how well their business is performing. Through <strong>SMO marketing services in Chandigarh</strong>, we promote services and products for maximum visibility on popular social media platform.</p><br />
+                            <p>With the help of  social media websites, Our SMO experts improve online brand visibility. Identifies the key parameters of Social media audience behavior and suggest better solution to client. Growth Licious provides both positive and negative feedback to customers, how well their business is performing. Through <strong>SMO marketing services in Chandigarh</strong>, we promote services and products for maximum visibility on popular social media platform.</p><br />
 
                             <div className="services_inn_bg">
                                 <h4 className="website-service-head">SMO marketing services based on the following factors:</h4>
@@ -131,7 +131,7 @@ const Smo = () => {
                             <br />
 
                             <div className="services_inn_bg">
-                                <h4 className="website-service-head">Why Ubique Creations is a Perfect Choice for SMO marketing Services In Chandigarh...?</h4>
+                                <h4 className="website-service-head">Why Growth Licious is a Perfect Choice for SMO marketing Services In Chandigarh...?</h4>
                                 <ul className="mobile_list">
                                     <li><i className="fa fa-hand-o-right"></i>Dynamic team of social media experts.</li>
                                     <li><i className="fa fa-hand-o-right"></i>We assure the exposure of your brand on a global platform.</li>
@@ -143,7 +143,7 @@ const Smo = () => {
                             </div>
                             <br />
 
-                            <p>If you want to target Online audiences, <strong>SMO services in Chandigarh</strong> can be a very cost effective way. Crafting awesome posts with engaging content for social media websites like Facebook, LinkedIn, Twitter, Pinterest, Instagram etc. requires creative bend of mind and a deep understanding of online user behavior. We, at Ubique Creations, assist you to ‘how to’ showcase your brand on various platforms to get maximum exposure globally while engaging with the Online users.</p>
+                            <p>If you want to target Online audiences, <strong>SMO services in Chandigarh</strong> can be a very cost effective way. Crafting awesome posts with engaging content for social media websites like Facebook, LinkedIn, Twitter, Pinterest, Instagram etc. requires creative bend of mind and a deep understanding of online user behavior. We, at Growth Licious, assist you to ‘how to’ showcase your brand on various platforms to get maximum exposure globally while engaging with the Online users.</p>
                         </div>
                     </div>
                     <div className="col-sm-3">

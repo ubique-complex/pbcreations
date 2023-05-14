@@ -48,7 +48,7 @@ const WebDev = () => {
 	return (
 		<>
 			<Helmet>
-				<title>Pbcreations | web-development-services</title>
+				<title>Growth Licious | web-development-services</title>
 				<meta name="description" content="Get the best web development services in Chandigarh, India. Our Chandigarh web developers are professionals and experienced in website development Service." />
 				<meta name="keywords" content="Web Developer In Chandigarh, Website Development Service Chandigarh, Website Development Services In Chandigarh, Web Developer Service In Chandigarh" />
 
@@ -103,7 +103,7 @@ const WebDev = () => {
 						<li><Link to="/"> <span className="fa fa-home"></span></Link></li>
 						<li><Link to="#">/ Web Solution /</Link></li>
 						<li><Link to="/web-development-services">Development /</Link></li>
-						<li><Link style={{ color: '#59c178' }}><span>Web Development Services</span></Link></li>
+						<li><Link style={{ color: '#669940' }}><span>Web Development Services</span></Link></li>
 					</ol>
 				</div>
 			</div>
@@ -125,11 +125,11 @@ const WebDev = () => {
 					<div className="row">
 						<div className="col-sm-6">
 							<h2 className="box-header">Get Professional <span>Web Development Services</span></h2>
-							<p>Ubique Creations understands your website is your investment with certain results. Our team focuses on applying your ideas correctly, which gives you profitable results according to your business needs. We believes into providing <strong>website development services in Chandigarh</strong>, India and outside the country. We have experienced and dedicated team of developers who build websites on various platform such as Asp.Net, HTML, CSS, Wordpress, PHP, SQL, MYSQL etc. Our team adheres to web design services while developing a website for online users. Our <strong>website developer in Chandigarh</strong>, use trending technologies for impeccable website development process.</p>
+							<p>Growth Licious understands your website is your investment with certain results. Our team focuses on applying your ideas correctly, which gives you profitable results according to your business needs. We believes into providing <strong>website development services in Chandigarh</strong>, India and outside the country. We have experienced and dedicated team of developers who build websites on various platform such as Asp.Net, HTML, CSS, Wordpress, PHP, SQL, MYSQL etc. Our team adheres to web design services while developing a website for online users. Our <strong>website developer in Chandigarh</strong>, use trending technologies for impeccable website development process.</p>
 
 							<p>As we know website is a prominent part of every online business that's why our team suggest you to choose better platform. After finalizing website platform, our designer design the eye catchy layouts of website for approval. Subsequently, web developer does the website coding and finished it on time, keeping the search engine compatibility in mind.</p>
 
-							<p>At Ubique Creations, our <strong>website developers in Chandigarh</strong> remove each glitch step-by-step during the web development process and deliver bug-free website for Online publication. As a website development services  provider, we also offer web re-development services. If your website does not reflect the desired result, then it’s a good time to redevelop your business website but you need to hire a team of professional like Ubique Creations who can fix the problem and brings you desired results.</p><br />
+							<p>At Growth Licious, our <strong>website developers in Chandigarh</strong> remove each glitch step-by-step during the web development process and deliver bug-free website for Online publication. As a website development services  provider, we also offer web re-development services. If your website does not reflect the desired result, then it’s a good time to redevelop your business website but you need to hire a team of professional like Growth Licious who can fix the problem and brings you desired results.</p><br />
 
 							<Link to="contact-us.php" className="portfolio_button">Send Us Query</Link>
 						</div>
@@ -208,7 +208,7 @@ const WebDev = () => {
 								<h2 className="box-header">Testing & <span>  Maintenance Support</span></h2>
 								<p>Testing is essential for any project to run smoothly without giving any technical and non-technical issues. Our testing team find out all the bugs and technical issues and fix them before delivering it to the client for online or offline publication.</p>
 								<p>We also provide web maintenance support to ensure that your website runs efficiently and match the current market standards. It’s necessary for the organization to know and understand how web business work.</p>
-								<p>To find out best professional web design and development experts is always a tough task. Ubique Creations offers you an affordable <strong>website development services in Chandigarh</strong>, India and around the globe that ensures your business growth.</p>
+								<p>To find out best professional web design and development experts is always a tough task. Growth Licious offers you an affordable <strong>website development services in Chandigarh</strong>, India and around the globe that ensures your business growth.</p>
 							</div>
 						</div>
 					</div>
@@ -220,7 +220,7 @@ const WebDev = () => {
 					<div className="row">
 						<div className="col-sm-12">
 							<h2>HIRE <span>DEVELOPERS</span></h2>
-							<p>Hire a team of experienced and full-time resource from Ubique Creations. Our developers finish their work on time without compromising with the quality. Keep away your concerns by hiring us!</p>
+							<p>Hire a team of experienced and full-time resource from Growth Licious. Our developers finish their work on time without compromising with the quality. Keep away your concerns by hiring us!</p>
 							<div align="center"><Link to="contact-us.php" className="portfolio_button">Enquiry Now</Link></div>
 						</div>
 					</div>

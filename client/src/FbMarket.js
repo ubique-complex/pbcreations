@@ -43,7 +43,7 @@ const FbMarket = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Facebook-marketing-services</title>
+                <title>Growth Licious | Facebook-marketing-services</title>
             </Helmet>
             <div className="development_bg">
                 <div className="container-fluid">
@@ -95,7 +95,7 @@ const FbMarket = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="/digital-marketing-services">/ Digital Marketing /</Link></li>
                         <li><Link to="#">SMO /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Facebook Marketing</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Facebook Marketing</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -117,7 +117,7 @@ const FbMarket = () => {
                     <div className="col-sm-9 mobile-text">
                         <div className="">
                             <h2 className="box-header">Facebook <span> Marketing Services</span></h2>
-                            <p>Today there are various social media websites which help users to connect with each other where they share pics, videos, information etc. but facebook is most popular website. Facebook is seen as a website for connecting people but many small or brand companies used facebook marketing services to increase sales. That’s why Pbcreations started providing <strong>Facebook marketing services in Chandigarh.</strong></p><br />
+                            <p>Today there are various social media websites which help users to connect with each other where they share pics, videos, information etc. but facebook is most popular website. Facebook is seen as a website for connecting people but many small or brand companies used facebook marketing services to increase sales. That’s why Growth Licious started providing <strong>Facebook marketing services in Chandigarh.</strong></p><br />
 
                             <div className="services_inn_bg">
                                 <h4 className="website-service-head">Fact of Facebook</h4>
@@ -129,7 +129,7 @@ const FbMarket = () => {
 
                         <p>As we provides <strong>Facebook marketing services Chandigarh</strong>, our experts listen your customer carefully and provide you the feedback. Your audience will tell you exactly what does and doesn't work about your product/service. But in order to start that open conversation, your customers need to feel that you're genuinely devoted to listening to their feedback and that you'll use the feedback to improve your product and service for them.</p>
 
-                        <p>We offer excellent <strong>FB marketing services in Chandigarh</strong> for your business. Pbcreations uses interesting images, quality content, engaging videos to enhance post visibility. Apart from the regular post, we are into a Facebook marketing campaign to sell out our clients product and services that have a viral impact which increases customer visibility. And we’re not just interested in doing marketing for your company but we want to work with you every step of the way in building a buzzing community around it. Count on us to deliver top of the line customer service with our website development and <strong>facebook marketing services in Chandigarh</strong> to increase brand exposure for the acquisition of customers and clients as well as increase brand loyalty to your customers.</p>
+                        <p>We offer excellent <strong>FB marketing services in Chandigarh</strong> for your business. Growth Licious uses interesting images, quality content, engaging videos to enhance post visibility. Apart from the regular post, we are into a Facebook marketing campaign to sell out our clients product and services that have a viral impact which increases customer visibility. And we’re not just interested in doing marketing for your company but we want to work with you every step of the way in building a buzzing community around it. Count on us to deliver top of the line customer service with our website development and <strong>facebook marketing services in Chandigarh</strong> to increase brand exposure for the acquisition of customers and clients as well as increase brand loyalty to your customers.</p>
                     </div>
                     <div className="col-sm-3">
                         <div className="right-web-services">

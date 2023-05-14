@@ -6,7 +6,7 @@ export const GwordManage = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Google-adwords-management-services</title>
+                <title>Growth Licious | Google-adwords-management-services</title>
             </Helmet>
             <div className="head portfolio" >
                 <div className="container">
@@ -20,7 +20,7 @@ export const GwordManage = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Digital Marketing /</Link></li>
                         <li><Link to="#">SEM /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>Google Ads</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>Google Ads</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -31,7 +31,7 @@ export const GwordManage = () => {
                     <div className="row">
                         <div className="col-sm-9">
                             <h2 className="box-header">Show Your <span>Ads On Google</span></h2>
-                            <p>Get noticed by your audiences through Google AdWords Campaign. Here at Pbcreations, Our Google ads expert advertise your products or services on the Google search engine to generate more traffic and leads. As every business needs are different. Hence, our team does extensive research such as analyzing keywords, target locations, daily and monthly budget, etc. before executing the campaign. Being a part of <strong>Google Ads services in Chandigarh</strong>, our objective is to deliver business-oriented results to every client.</p>
+                            <p>Get noticed by your audiences through Google AdWords Campaign. Here at Growth Licious, Our Google ads expert advertise your products or services on the Google search engine to generate more traffic and leads. As every business needs are different. Hence, our team does extensive research such as analyzing keywords, target locations, daily and monthly budget, etc. before executing the campaign. Being a part of <strong>Google Ads services in Chandigarh</strong>, our objective is to deliver business-oriented results to every client.</p>
                             <p>As Google AdWords campaign brings you the leads. On the other hand, our team manages your Google campaign within your budget. Our <strong>Google Ads services in Chandigarh</strong> ensures that all your ads are well optimized, through which you can grab the attention of online users. It's the simplest way to take your marketing efforts of branding, awareness, and promotion to a whole new level.</p>
                             <p>Before running an AdWords campaign, our specialists understand the customer's business needs. And, then our Google AdWords experts use a suitable platform to execute the marketing strategies. There are various platforms which are included in <strong>Google AdWords Management Services in Chandigarh</strong>.</p>
 
@@ -75,9 +75,9 @@ export const GwordManage = () => {
                             <br />
 
                             <h4 className="website-service-head">Why Do You Need To Opt Us?</h4><br />
-                            <p>At Pbcreations, our experts track the performance of every Ad and provide you detailed reports. With the help of our Google AdWords management services in Chandigarh, you can easily compete with big brands. Our experts have extensive experience in Google advertising services that can target your potential audience and give you quick results. So, if you want to get the most out of Google AdWords management services, call Pbcreations.</p>
+                            <p>At Growth Licious, our experts track the performance of every Ad and provide you detailed reports. With the help of our Google AdWords management services in Chandigarh, you can easily compete with big brands. Our experts have extensive experience in Google advertising services that can target your potential audience and give you quick results. So, if you want to get the most out of Google AdWords management services, call Growth Licious.</p>
 
-                            <p>Get in touch with Pbcreations’s professionals at <Link to="mailto:pbcreationsin@gmail.com">pbcreationsin@gmail.com</Link> or call us +91 79863 78511 to discuss your idea. At Pbcreations, our Google ads experts have a vast knowledge of the Google AdWords campaign. Therefore, they will be a good asset for your business and deliver you the best ROI.</p>
+                            <p>Get in touch with Growth Licious’s professionals at <Link to="mailto:Growth Liciousin@gmail.com">Growth Liciousin@gmail.com</Link> or call us +91 79863 78511 to discuss your idea. At Growth Licious, our Google ads experts have a vast knowledge of the Google AdWords campaign. Therefore, they will be a good asset for your business and deliver you the best ROI.</p>
                         </div>
                         <div className="col-sm-3">
                             <div className="right-web-services">

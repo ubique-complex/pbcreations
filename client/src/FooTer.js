@@ -1,6 +1,6 @@
 import React from 'react'
 import './FooTer.css';
-import logo from './images/pbc-logo-light-2.svg';
+import logo from './images/Growth-licious-logo-light.svg';
 import { Link } from "react-router-dom";
 
 // const footerStyle = {
@@ -26,16 +26,16 @@ export const FooTer = () => {
 
           {/* <!-- Right --> */}
           <div>
-            <Link to="https://www.facebook.com/pbcreations.in" className="me-4 text-reset">
+            <Link to="https://www.facebook.com/Growth Licious.in" className="me-4 text-reset">
               <i className="fa fa-facebook"></i>
             </Link>
-            <Link to="https://twitter.com/pbcreationsin" className="me-4 text-reset">
+            <Link to="https://twitter.com/Growth Liciousin" className="me-4 text-reset">
               <i className="fa fa-twitter"></i>
             </Link>
             {/*<Link to="" className="me-4 text-reset">
               <i className="fa fa-google"></i>
             </Link> */}
-            <Link to="https://www.instagram.com/pbcreationsin/" className="me-4 text-reset">
+            <Link to="https://www.instagram.com/Growth Liciousin/" className="me-4 text-reset">
               <i className="fa fa-instagram"></i>
             </Link>
             {/* <Link to="" className="me-4 text-reset">
@@ -57,9 +57,9 @@ export const FooTer = () => {
               {/* <!-- Grid column --> */}
               <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                 {/* <!-- Content --> */}
-                <img src={logo} alt="Pbcreations" style={{ width: 221 }} />
+                <img src={logo} alt="Growth Licious" style={{ width: 221 }} />
                 <p classNameName="text-justify">
-                  The Pb creations is a leading IT company in Chandigarh,
+                  The Growth Licious is a leading IT company in Chandigarh,
                   where we believe in data driven planning to develop strategies that are exclusively matched to your brand.
                 </p>
               </div>
@@ -111,10 +111,10 @@ export const FooTer = () => {
                 <h6 className="text-uppercase fw-bold mb-4">
                   Contact
                 </h6>
-                <p><i className="fa fa-home me-3"></i> SCO-25, Gharuan, Ludhiana-chandigarh Highway, Kharar, Mohali, Punjab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p><i className="fa fa-home me-3"></i> Flat No 43, Aero Homes, Sector 123, Mohali, Punjab, 140301 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 <p>
                   <i className="fa fa-envelope me-3"></i>
-                  ubiquecreations@gmail.com
+                  growthlicious@gmail.com
                 </p>
                 <p><i className="fa fa-phone me-3"></i> + 91 7986 37 8511</p>
                 {/* <p><i className="fa fa-print me-3"></i> + 91 7986 37 8511</p> */}
@@ -129,7 +129,7 @@ export const FooTer = () => {
         {/* <!-- Copyright --> */}
         <div className="text-center p-4 copystyle">
           © 2023 Copyright:
-          <Link className="text-reset fw-bold" to="/">ubiquecreations.com</Link>
+          <Link className="text-reset fw-bold" to="/">growthlicious.in</Link>
         </div>
         {/* <!-- Copyright --> */}
       </footer>

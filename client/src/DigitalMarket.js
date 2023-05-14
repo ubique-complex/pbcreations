@@ -49,8 +49,8 @@ const DigitalMarket = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Digital Marketing Services</title>
-                <meta name="description" content="Pbcreations is a leading IT company in Chandigarh,
+                <title>Growth Licious | Digital Marketing Services</title>
+                <meta name="description" content="Growth Licious is a leading IT company in Chandigarh,
                   where we believe in data driven planning to develop strategies that are exclusively matched to your brand."></meta>
             </Helmet>
             <div className="development_bg">
@@ -102,7 +102,7 @@ const DigitalMarket = () => {
                 <div className="container-fluid">
                     <ol className="breadcrumb" vocab="" typeof="BreadcrumbList">
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
-                        <li><Link to="/digital-marketing-services" style={{ color: '#59c178' }}>/ Digital Marketing</Link></li>
+                        <li><Link to="/digital-marketing-services" style={{ color: '#669940' }}>/ Digital Marketing</Link></li>
                     </ol>
                 </div>
             </div>
@@ -124,9 +124,9 @@ const DigitalMarket = () => {
                     <div className="row">
                         <div className="col-sm-6">
                             <h2 className="box-header">Digital Marketing<span> Grow Your Business</span></h2>
-                            <p>Being a part of <strong>digital marketing services in Chandigarh</strong>, India. Our experienced and passionate marketing specialists are well-focused on delivering business-oriented results. They use trending online marketing strategies to enhance organic search and run campaigns to improve lead conversion rate that helps all types of customers to achieve their business desires. At Pbcreations, our digital marketing experts follow three principles, i.e a successful planning, creativity, and execution of strategies through which any business can easily improve their brand awareness. So whether you are a startup, SME, or a brand, Pbcreations is a better option for digital marketing services in Chandigarh, India.</p>
+                            <p>Being a part of <strong>digital marketing services in Chandigarh</strong>, India. Our experienced and passionate marketing specialists are well-focused on delivering business-oriented results. They use trending online marketing strategies to enhance organic search and run campaigns to improve lead conversion rate that helps all types of customers to achieve their business desires. At Growth Licious, our digital marketing experts follow three principles, i.e a successful planning, creativity, and execution of strategies through which any business can easily improve their brand awareness. So whether you are a startup, SME, or a brand, Growth Licious is a better option for digital marketing services in Chandigarh, India.</p>
 
-                            <p>Just developing a website is not enough for the business. Marketing plays a crucial role in promoting businesses as a brand. Being a part of <strong>digital marketing services in Chandigarh</strong>, our experts analyze every business’s strengths & weaknesses. So, we can use smart tactics to provide the best output to audiences in search engine results. Pbcreations has an experienced team of marketing strategists who adopt the latest trends and techniques to make their business name in the market.
+                            <p>Just developing a website is not enough for the business. Marketing plays a crucial role in promoting businesses as a brand. Being a part of <strong>digital marketing services in Chandigarh</strong>, our experts analyze every business’s strengths & weaknesses. So, we can use smart tactics to provide the best output to audiences in search engine results. Growth Licious has an experienced team of marketing strategists who adopt the latest trends and techniques to make their business name in the market.
                             </p>
 
                             <p>Choosing the right digital marketing channel and optimization methods for client business is our specialty that will give you the best ROI.</p>

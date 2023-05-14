@@ -9,7 +9,7 @@ export const WebRedesign = () => {
 
         <div>
             <Helmet>
-                <title>Pbcreations | Website Redesign Services</title>
+                <title>Growth Licious | Website Redesign Services</title>
             </Helmet>
             <div className="head portfolio">
                 <div className="container">
@@ -24,7 +24,7 @@ export const WebRedesign = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="" style={{ textDecoration: 'none' }}>&nbsp;/Web Solution /</Link></li>
                         <li><Link to="" style={{ textDecoration: 'none' }}>Design /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>&nbsp;Website Re-Design</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>&nbsp;Website Re-Design</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -55,7 +55,7 @@ export const WebRedesign = () => {
 
                             <div align="center"><img src={img} className="img-responsive" alt="redesignimg" /></div>
                             <div className="services_inn_bg">
-                                <h4 className="website-service-head">Why should I Choose Pbcreations for Website Redesign Services In Chandigarh?</h4>
+                                <h4 className="website-service-head">Why should I Choose Growth Licious for Website Redesign Services In Chandigarh?</h4>
                                 <p>Our website designers are professionals, have experienced and provides top-notch <strong>website redesign services in Chandigarh</strong>. Our designers believe that eye-catching layouts, theme combinations of colors, user-friendly navigation structure and smartphone responsive design have a great impact on viewers. Apart from designing, Our designers make your website more SEO friendly so you can beat your Online competitors. Our designers uplift the website design to improve:</p>
                                 <ul className="mobile_list">
                                     <li><i className="fa fa-hand-o-right"></i>Brand Value : Redesign gives fresh look to your website which enhance brand value.</li>

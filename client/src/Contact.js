@@ -4,32 +4,65 @@ import { Helmet } from 'react-helmet'
 import './contact.css'
 import axios from 'axios';
 const Contact = () => {
+    // const form = useRef();
+
+    // const sendEmail = (e) => {
+    //     e.preventDefault();
+
+    //     emailjs.sendForm('service_sfyldit', 'template_ezbx798', form.current, 'wDWldNm-ELApT3Ygt')
+    //         .then((result) => {
+    //             console.log(result.text);
+    //         }, (error) => {
+    //             console.log(error.text);
+    //         });
+    // };
+
+
+    // Old Method of mail sending
+
+    // const baseUrl = "http://localhost:3001";
+
     const [state, setState] = useState({
         name: '',
         email: '',
         phone: '',
-        subject: '',
+        subject: 'You receiced a mail for Web Designing Services',
         message: ''
     });
     const [result, setResult] = useState(null);
 
-    const sendEmail = event => {
+    const sendEmail = async (event) => {
         event.preventDefault();
         axios({
             method: "POST",
             url: "/send",
             data: state
-        }).then(res => {
-            console.log(res.state);
+        }).then((res) => {
+            console.log(res);
+            alert("Thanks for contacting us. We will get back to you shortly")
             setResult(res.data);
             setResult({ success: true, message: 'Thanks for contacting us. We will get back to you shortly' });
-            setState({ name: '', email: '', phone: '', subject: '', message: '' });
-        })
-            .catch(() => {
-                setResult({ success: false, message: 'Something went wrong. try again later' });
-            });
-    };
+            setState({ name: '', email: '', phone: '', message: '' });
+        }).catch(() => {
+            setResult({ success: false, message: 'Something went wrong. try again later' });
+            setState({ name: '', email: '', phone: '', message: '' });
+        });
 
+
+        // axios({
+        //     method: "POST",
+        //     url: "/send",
+        //     data: state
+        // }).then(res => {
+        //     console.log(res.state);
+        //     setResult(res.data);
+        //     setResult({ success: true, message: 'Thanks for contacting us. We will get back to you shortly' });
+        //     setState({ name: '', email: '', phone: '', message: '' });
+        // })
+        //     .catch(() => {
+        //         setResult({ success: false, message: 'Something went wrong. try again later' });
+        // });
+    };
 
     const onInputChange = event => {
         const { name, value } = event.target;
@@ -43,12 +76,12 @@ const Contact = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | Contact Us</title>
-                <meta name="description" content="Contact Pbcreations for website design and development, SEO, digital marketing services in Chandigarh, India. We are here, listen to you and help you out." />
+                <title>Growth Licious | Contact Us</title>
+                <meta name="description" content="Contact Growth Licious for website design and development, SEO, digital marketing services in Chandigarh, India. We are here, listen to you and help you out." />
             </Helmet>
             <div className="head portfolio imgs">
                 <div className="container">
-                    <h1 className="text-center">Get In Touch With <strong> Pbcreations</strong></h1>
+                    <h1 className="text-center">Get In Touch With <strong> Growth Licious</strong></h1>
                 </div>
             </div>
 
@@ -56,7 +89,7 @@ const Contact = () => {
                 <div className="container-fluid">
                     <ol className="breadcrumb" vocab="" typeof="BreadcrumbList">
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>/ Contact Us</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>/ Contact Us</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -76,7 +109,7 @@ const Contact = () => {
                 <div className="row">
                     <div className="col-md-8 col-sm-7">
                         <div className="contact-form2">
-                            <h2 className="box-header">Send a <span style={{ color: '#59c178' }}>Message</span></h2>
+                            <h2 className="box-header">Send a <span style={{ color: '#669940' }}>Message</span></h2>
                             <div className="row">
                                 {result && (
                                     <p classNameName={`${result.success ? 'success' : 'error'}`}>
@@ -144,7 +177,7 @@ const Contact = () => {
                         <br />
                         <br />
                         <br />
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13774.290863261635!2d76.3986252826192!3d30.33466935844058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391029d5cd6b5d21%3A0xe75649b3abd9167f!2spbcreations%3A%20Top%20Web%20designer%20And%20Developer%20%2F%20Seo%20%2F%20Digital%20Marketing%20%2F%20Graphic%20Designer!5e0!3m2!1sen!2sin!4v1626866723935!5m2!1sen!2sin" title="map" width="100%" height="450" style={{ border: '0' }} allowfullscreen="" loading="lazy"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13774.290863261635!2d76.3986252826192!3d30.33466935844058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391029d5cd6b5d21%3A0xe75649b3abd9167f!2sGrowth Licious%3A%20Top%20Web%20designer%20And%20Developer%20%2F%20Seo%20%2F%20Digital%20Marketing%20%2F%20Graphic%20Designer!5e0!3m2!1sen!2sin!4v1626866723935!5m2!1sen!2sin" title="map" width="100%" height="450" style={{ border: '0' }} allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>
             </div><br />

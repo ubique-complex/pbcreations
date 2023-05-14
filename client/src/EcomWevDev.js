@@ -5,7 +5,7 @@ export const EcomWevDev = () => {
     return (
         <>
             <Helmet>
-                <title>Pbcreations | ecommerce-website-development-services</title>
+                <title>Growth Licious | ecommerce-website-development-services</title>
             </Helmet>
             <div className="head portfolio">
                 <div className="container">
@@ -19,7 +19,7 @@ export const EcomWevDev = () => {
                         <li><Link to="/"> <span className="fa fa-home"></span></Link></li>
                         <li><Link to="#">/ Web Solution /</Link></li>
                         <li><Link to="#">Development /</Link></li>
-                        <li><Link style={{ color: '#59c178' }}><span>E-Commerce Development</span></Link></li>
+                        <li><Link style={{ color: '#669940' }}><span>E-Commerce Development</span></Link></li>
                     </ol>
                 </div>
             </div>
@@ -62,7 +62,7 @@ export const EcomWevDev = () => {
 
                         <p>Being part of <strong>Ecommerce web development in Delhi</strong> industry for quite some time, we are well aware of the things that the market requires. Picking up our experience from web development, we can give quality Ecommerce solutions to our clients. When it comes to offering out-of-the-box ideas, TrendyPuff is the name you should trust upon. From strategic planning to content management to designing user-friendly interfaces, we will get the job done in every possible way.</p>
 
-                        <p>Get in touch with our <strong>Ecommerce website developers Delhi</strong> at <Link to="mailto:pbcreationsin@gmail.com">pbcreationsin@gmail.com</Link> and start sharing your plans and see how our expertise and insight knowledge of the industry helps you get the best e-commerce application that suitably substantiates your brand.</p>
+                        <p>Get in touch with our <strong>Ecommerce website developers Delhi</strong> at <Link to="mailto:Growth Liciousin@gmail.com">Growth Liciousin@gmail.com</Link> and start sharing your plans and see how our expertise and insight knowledge of the industry helps you get the best e-commerce application that suitably substantiates your brand.</p>
                     </div>
                     <div className="col-sm-3">
                         <div className="right-web-services">

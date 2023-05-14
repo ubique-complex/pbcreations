@@ -44,7 +44,7 @@ const Ppc = () => {
 	return (
 		<>
 			<Helmet>
-				<title>Ubique Creations | ppc-campaign-marketing-services</title>
+				<title>Growth Licious | ppc-campaign-marketing-services</title>
 			</Helmet>
 			<div className="development_bg">
 				<div className="container-fluid">
@@ -97,7 +97,7 @@ const Ppc = () => {
 						<li><Link to="/"> <span className="fa fa-home"></span></Link></li>
 						<li><Link to="#">/ Digital Marketing /</Link></li>
 						<li><Link to="#">SEM /</Link></li>
-						<li><Link style={{ color: '#59c178' }}><span>PPC Campaign Services</span></Link></li>
+						<li><Link style={{ color: '#669940' }}><span>PPC Campaign Services</span></Link></li>
 					</ol>
 				</div>
 			</div>
@@ -119,7 +119,7 @@ const Ppc = () => {
 					<div className="col-sm-9 mobile-text">
 						<div className="">
 							<h2 className="box-header">PPC Campaign <span>Services (Pay Per Click)</span></h2>
-							<p>Ubique Creations offers <strong>PPC services in Chandigarh</strong> which is a fast and reliable way to generate traffic and sales for businesses. Our team of experts handle <strong>PPC advertising services in Chandigarh</strong> and creates ad campaigns for clients business to deliver them business oriented results within a stipulated time. We are well equipped to handle such pay per click campaigns of any size.</p>
+							<p>Growth Licious offers <strong>PPC services in Chandigarh</strong> which is a fast and reliable way to generate traffic and sales for businesses. Our team of experts handle <strong>PPC advertising services in Chandigarh</strong> and creates ad campaigns for clients business to deliver them business oriented results within a stipulated time. We are well equipped to handle such pay per click campaigns of any size.</p>
 
 							<p>Google has the largest traffic so far, which any company would love to target. Therefore, it’s natural that Adwords would be the first choice of your paid marketing campaigns. We analyze the keywords, target audiences, targeted location and suggest suitable landing page for PPC campaign. We ensure that your traffic is coming from the right channel. We also change our PPC strategy if it is required.</p><br />
 
@@ -146,7 +146,7 @@ const Ppc = () => {
 							<br />
 
 							<h4 className="website-service-head">Get PPC Marketing Services In Chandigarh</h4>
-							<p>Get a quick solution to increase sales through <strong>PPC services in Chandigarh</strong>. Hire a dedicated full-time resource like Ubique Creations and insulate yourself from worries of keeping an in-house employee. This also saves you from infrastructural and  recruitment commitments.</p>
+							<p>Get a quick solution to increase sales through <strong>PPC services in Chandigarh</strong>. Hire a dedicated full-time resource like Growth Licious and insulate yourself from worries of keeping an in-house employee. This also saves you from infrastructural and  recruitment commitments.</p>
 
 							<p>Our team members are proficient in <strong>PPC advertising services in Chandigarh</strong>. They are technically strong and have a lot of knowledge of online marketing, through which they can increase website traffic and international visibility.</p>
 
@@ -159,7 +159,7 @@ const Ppc = () => {
 							</ul>
 							<div className="services_inn_bg">
 								<h4 className="website-service-head">Get PPC Marketing Services In Chandigarh</h4>
-								<p>Get a quick solution to increase sales through <strong>PPC services in Chandigarh</strong>. Hire a dedicated full-time resource like Ubique Creations and insulate yourself from worries of keeping an in-house employee. This also saves you from infrastructural and  recruitment commitments.</p>
+								<p>Get a quick solution to increase sales through <strong>PPC services in Chandigarh</strong>. Hire a dedicated full-time resource like Growth Licious and insulate yourself from worries of keeping an in-house employee. This also saves you from infrastructural and  recruitment commitments.</p>
 							</div>
 							--> */}
 						</div>
